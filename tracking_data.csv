@@ -1,0 +1,3 @@
+timestamp,event_type,email,agency,user_agent,referrer,button_text,ip_address
+2025-06-26T16:43:09.676Z,page_view,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",,,10.103.226.191
+2025-06-26T16:45:25.853Z,waitlist_signup,ravenswood73@hotmail.com,lak;jdf,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",,,10.103.226.191
